@@ -27,7 +27,7 @@ This is a classic Snake game implemented in Java. The objective of the game is t
      cd Snake_Game
 
 3. Compile and run the game:
-    ```bash
+    
     Open the project in your favorite IDE (e.g., IntelliJ IDEA).
-
+     ```bash
     Run the Main.java file located at src/main/java/com/game/snake
