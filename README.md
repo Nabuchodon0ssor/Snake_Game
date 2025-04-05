@@ -30,4 +30,4 @@ This is a classic Snake game implemented in Java. The objective of the game is t
     ```bash
     Open the project in your favorite IDE (e.g., IntelliJ IDEA).
 
-    Run the SnakeGame.java file. 
+    Run the Main.java file located at src/main/java/com/game/snake
