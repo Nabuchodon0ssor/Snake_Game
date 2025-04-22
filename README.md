@@ -16,6 +16,10 @@ This is a classic Snake game implemented in Java. The objective of the game is t
 - Real-time game updates and score tracking.
 - Customizable game settings.
 
+## Screenshots
+![screenshot](https://github.com/user-attachments/assets/88eca0f5-6593-4c7d-bf00-4b948a12d97c)
+
+
 ## How to Run
 
 1. Clone this repository:
